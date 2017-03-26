@@ -9,4 +9,4 @@
 ## Info
 
 Final course assignment for Electronics Technician course.  
-**(TCC) Trabalho de Conclusão de Curso para o curso Técnico em Eletrônica.**
+*(TCC) Trabalho de Conclusão de Curso para o curso Técnico em Eletrônica.*
