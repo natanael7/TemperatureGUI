@@ -1,0 +1,51 @@
+c:\users\natanael\documents\visual studio 2013\Projects\TempSensorForm\TempSensorForm\bin\Debug\TempSensorForm.exe.config
+c:\users\natanael\documents\visual studio 2013\Projects\TempSensorForm\TempSensorForm\bin\Debug\TempSensorForm.exe
+c:\users\natanael\documents\visual studio 2013\Projects\TempSensorForm\TempSensorForm\bin\Debug\TempSensorForm.pdb
+c:\users\natanael\documents\visual studio 2013\Projects\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.csprojResolveAssemblyReference.cache
+c:\users\natanael\documents\visual studio 2013\Projects\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.Properties.Resources.resources
+c:\users\natanael\documents\visual studio 2013\Projects\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.csproj.GenerateResource.Cache
+c:\users\natanael\documents\visual studio 2013\Projects\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.exe
+c:\users\natanael\documents\visual studio 2013\Projects\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.pdb
+c:\users\natanael\documents\visual studio 2013\Projects\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.TempSensorForm.resources
+G:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\bin\Debug\TempSensorForm.exe.config
+G:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.exe
+G:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.pdb
+G:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\bin\Debug\TempSensorForm.exe
+G:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\bin\Debug\TempSensorForm.pdb
+G:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.csprojResolveAssemblyReference.cache
+G:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.TempSensorForm.resources
+G:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.Properties.Resources.resources
+G:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TempSensorForm\TempSensorForm\bin\Debug\TempSensorForm.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.exe
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TempSensorForm\TempSensorForm\bin\Debug\TempSensorForm.exe
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TempSensorForm\TempSensorForm\bin\Debug\TempSensorForm.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.TempSensorForm.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.csproj.GenerateResource.Cache
+E:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\bin\Debug\TempSensorForm.exe.config
+E:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.exe
+E:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.pdb
+K:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\bin\Debug\TempSensorForm.exe.config
+K:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.exe
+K:\Eletronica\arduino_programming\TempSensorForm\TempSensorForm\obj\Debug\TempSensorForm.pdb
+K:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\bin\Debug\TempSensorForm.exe.config
+K:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\obj\Debug\TempSensorForm.exe
+K:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\obj\Debug\TempSensorForm.pdb
+K:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\bin\Debug\TempSensorForm.exe
+K:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\bin\Debug\TempSensorForm.pdb
+K:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\obj\Debug\TempSensorForm.csprojResolveAssemblyReference.cache
+K:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\obj\Debug\TempSensorForm.TempSensorForm.resources
+K:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\obj\Debug\TempSensorForm.Properties.Resources.resources
+K:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\obj\Debug\TempSensorForm.csproj.GenerateResource.Cache
+G:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\bin\Debug\TempSensorForm.exe.config
+G:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\obj\Debug\TempSensorForm.exe
+G:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\obj\Debug\TempSensorForm.pdb
+G:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\bin\Debug\TempSensorForm.exe
+G:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\bin\Debug\TempSensorForm.pdb
+G:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\obj\Debug\TempSensorForm.csprojResolveAssemblyReference.cache
+G:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\obj\Debug\TempSensorForm.TempSensorForm.resources
+G:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\obj\Debug\TempSensorForm.Properties.Resources.resources
+G:\Eletronica\arduino_programming\TempSensorForm_v2\TempSensorForm\obj\Debug\TempSensorForm.csproj.GenerateResource.Cache
